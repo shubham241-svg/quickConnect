@@ -48,7 +48,7 @@ export const followUnfollowUser = async(req, res ) =>{
             await User.findByIdAndUpdate(id , { $pull: {followers: req.user._id}});// removes my name from the followers array/list
             await User.findByIdAndUpdate(req.user._id, { $pull: {following: id}}) // removes her name from my followings
             
-            //TODO return the id of the user as a response
+            //TODO1 return the id of the user as a response
             res.status(200).json({message: "User Unfollowed successfully"})
 
 
@@ -64,10 +64,10 @@ export const followUnfollowUser = async(req, res ) =>{
                 to: userToModify._id , // id
 
             });
-            // Todo return the id of the user as a response
+
             await newNotification.save() ;
 
-            //TOD: return the id of the user as a response
+            //TODO2: return the id of the user as a response
             res.status(200).json({message: "user followed successfully"});
 
         }
