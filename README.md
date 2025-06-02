@@ -86,14 +86,17 @@ After starting the servers, navigate to `http://localhost:3000` in your browser 
 
 ## 📱 Screenshots
 
-### Home Page
-![Home Page](Screenshot%202025-03-24%20at%202.27.10%20PM.png)
+### Landing Page
+![Landing Page](Screenshot%202025-03-24%20at%202.27.10%20PM.png)
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/shubham241-svg/quickConnect/raw/main/screenshots/login.png" alt="Login Screen" width="30%">
-  <img src="https://github.com/shubham241-svg/quickConnect/raw/main/screenshots/feed.png" alt="Feed Screen" width="30%">
-  <img src="https://github.com/shubham241-svg/quickConnect/raw/main/screenshots/profile.png" alt="Profile Screen" width="30%">
-</div>
+### Login Page
+![Login Page](Screenshot%202025-03-24%20at%202.28.21%20PM.png)
+
+### Profile Page
+![Profile Page](Screenshot%202025-03-24%20at%202.27.28%20PM.png)
+
+### Notifications Page
+![Notifications Page](Screenshot%202025-03-24%20at%202.27.55%20PM.png)
 
 ## 🔄 API Endpoints
 
