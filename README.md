@@ -4,7 +4,7 @@
 
 QuickConnect is a feature-rich social media application designed for seamless connections and interactions among users. Built with modern web technologies, it provides a robust and intuitive platform for social networking.
 
-![QuickConnect Logo](https://github.com/shubham241-svg/quickConnect/raw/main/client/public/assets/images/logo.png)
+![QuickConnect Logo](Screenshot_2025-06-02_at_11.33.40_AM-removebg-preview.png)
 
 ## 🚀 Features
 
